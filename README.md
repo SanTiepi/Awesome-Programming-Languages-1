@@ -20,6 +20,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 
 - [Bash](Languages/Bash.md) - Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
 - [Batch](Languages/Batch.md) - Batch programming language, commonly known as Batch or Windows Batch, is a scripting language used in Windows operating systems to automate tasks by executing a series of commands in a batch file.
+- [Benoit](Languages/Benoit.md) - Benoit is a programming language that transpiles to JavaScript, optimized for human-AI pair programming. Features inline test assertions, pattern matching, pipe operator, and ~68% token reduction vs JS.
 - [C++](Languages/Cplusplus.md) - (C-PlusPlus) is a general-purpose programming language created as an extension of the C programming language.
 - [C#](Languages/Csharp.md) - (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
 - [Carbon](Languages/Carbon.md) - Carbon, or Carbon-Lang, is an experimental, general-purpose programming language created to be a "C++ successor" developed by Google.
